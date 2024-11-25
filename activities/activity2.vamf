@@ -4,7 +4,7 @@
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [{
-      "name": "Topology 2",
+      "name": "Topology 1",
       "actionTitle":"Reserve",
       "description": "Immediate reservation of two VMs Velocity VM and VDS VM",
       "reservationDuration":"60",
